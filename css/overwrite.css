@@ -1,0 +1,205 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+body{
+  padding:0;
+  margin:0;
+}
+
+#bg {
+  position: fixed; 
+  top: 0; 
+  left: 0;
+  width:100%;
+  min-width: 100%;
+  min-height: 100%;
+}
+
+body, div, p, td, tr, ul, li, a, span{
+font-family: 'Roboto', sans-serif;
+font-size:13px;
+color:#FFFFFF;
+}
+
+
+
+
+
+
+
+.clear{
+clear:both;
+}
+
+i{
+margin-right:5px;
+}
+
+.text_align_center{
+text-align:center !important;
+}
+
+.text_align_left{
+text-align:left !important;
+}
+
+.text_align_right{
+text-align:right !important;
+}
+
+
+.p_top_5{
+padding-top:5px;
+}
+
+.p_top_10{
+padding-top:10px;
+}
+
+.p_top_15{
+padding-top:15px;
+}
+
+.p_top_20{
+padding-top:20px;
+}
+
+.p_top_25{
+padding-top:25px;
+}
+
+.p_top_30{
+padding-top:30px;
+}
+
+.p_top_35{
+padding-top:35px;
+}
+
+.p_top_40{
+padding-top:40px;
+}
+
+.p_top_45{
+padding-top:45px;
+}
+
+.p_top_50{
+padding-top:50px;
+}
+
+.p_top_60{
+padding-top:60px;
+}
+
+.p_top_70{
+padding-top:70px;
+}
+
+.p_top_80{
+padding-top:80px;
+}
+
+.p_top_90{
+padding-top:90px;
+}
+
+.p_top_100{
+padding-top:100px;
+}
+
+.p_top_110{
+padding-top:110px;
+}
+
+.p_top_120{
+padding-top:120px;
+}
+
+.p_top_130{
+padding-top:130px;
+}
+
+.p_top_140{
+padding-top:140px;
+}
+
+
+.p_top_150{
+padding-top:150px;
+}
+
+
+.p_top_160{
+padding-top:160px;
+}
+
+
+.p_top_170{
+padding-top:170px;
+}
+
+
+.p_top_170{
+padding-top:170px;
+}
+
+
+
+
+
+.p_bot_10{
+padding-bottom:10px;
+}
+
+.p_bot_20{
+padding-bottom:20px;
+}
+
+.p_bot_30{
+padding-bottom:30px;
+}
+
+.p_bot_40{
+padding-bottom:40px;
+}
+
+.p_bot_50{
+padding-bottom:50px;
+}
+
+
+
+h3{
+font-size:20px;
+}
+
+.home_buttons a{
+font-size:14px;
+background-color:#FFFFFF;
+color:#333333;
+padding:10px 0px;
+width:100%;
+display:block;
+  -webkit-border-radius: 25px; 
+  -moz-border-radius: 25px; 
+  border-radius: 25px; 
+}
+
+.home_buttons a:hover{
+text-decoration:none;
+background-color:#F8CE3D;
+color:#FFFFFF;
+}
+
+.footer_social a{
+padding-right:4px;
+padding-left:4px;
+font-size:22px;
+}
+
+.footer_social a:hover{
+color:#F8CE3D;
+}
+
+hr{
+background:rgba(255,255,255,0.5) !important;
+}
